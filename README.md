@@ -1,4 +1,4 @@
-# isima-poa-2021-TP7-Varloteaux
+# Objectif
 
 Ce TP consistera à créer un générateur automatique et multi-threadé de données.
 Les threads sont couramment utilisés dans le développement. Ils servent à paralléliser 
